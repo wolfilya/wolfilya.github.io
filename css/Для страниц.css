@@ -1,0 +1,91 @@
+/*@import url('https://fonts.googleapis.com/css?family=Indie+Flower');*/
+/*@import url('https://fonts.googleapis.com/css?family=Overpass+Mono');*/
+/*@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');*/
+/* Подключение внешнего шрифта*/
+
+/*
+@font-face {
+    font-family: IndieFlower; !* Имя шрифта *!
+    src: url(../font/IndieFlower.ttf); !* Путь к файлу со шрифтом *!
+}
+P {
+    font-family: IndieFlower, serif;
+}
+*/
+
+/* Форматируем элемент <div>, который представляет верхний колонтитул
+(как блок с рамкой и синей заливкой). */
+header{
+    background-color: rgba(88, 130, 254, 0.62);
+    border: thin #4d0099 solid;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+/* Форматируем все заголовки <h1> в элементе <div>
+верхнего колонтитула (заголовок статьи). */
+body{
+    background-color: rgba(254, 211, 164, 0.04);
+    /*border: thin rgba(54, 153, 147, 0) solid;/* изменения!!!! */
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+}
+
+footer {
+    background-color: #e2ffe1;
+    border: thin #e2ffe1 solid;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+h1{
+    color: #fbc0ac;
+}
+h3{
+    color: #cb0001;
+}
+h5{
+    color: #1a2699;
+}
+
+p{ color: #139919}
+
+.darkred1{
+    color: #ff8173;
+}
+.darkred{
+    color: #109900;
+}
+p.red{
+    color: #ff0e13;
+}
+
+
+ul{
+    color: #ff0e13;
+}
+
+img{
+    border-radius: 10px;
+}
+/*---------------------------------------------------------------*/
+/*zakladka*/
+#bar {
+    top: -90px; right:5%;/*ПОЛОЖЕНИЕ*/
+    padding:2%;/*ПОЛЯ*/
+    margin: -50px;/*ОТСТУП*/
+    position: absolute;/*АПСОЛЮТНОЕ ПОЗИЦИОНИРОВАНИЕ*/
+    width: 3%;/*ШИРИНА*/
+    background: #ecfbcd;/*ЦВЕТ ФОНА*/
+    color: #7fffb8;/*ЦВЕТ ТЕКСТА*/
+    text-align: center;/*ВЫРАВНИВАНИЕ ПО ЦЕНТРУ*/
+    transition: top 1s ease-out 0.5s;/*Переход*/
+    transition-duration: 1s;/*Длительность анимации*/
+}
+#bar:hover {
+    top: 5px; /*При наведении курсорв*/
+}
+
+

@@ -1,0 +1,47 @@
+header{
+    background-color: #ffa092;
+    border: thin black solid;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+h1{
+    color: #d59266;
+}
+tr {
+    background: #fbfff4;
+}
+strong{
+    color: #ff8173;
+
+}
+footer {
+    color: rgba(19, 100, 0, 0.98);
+    background-color: #ffd261;
+    border: 0px #6f9955 none;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+}
+th{
+    border-radius: 20px 20px 20px 20px;
+}
+/*--------------------------------------------*/
+/*zakladka*/
+#bar {
+    top: -90px; right:90%;/*ПОЛОЖЕНИЕ*/
+    padding:2%;/*ПОЛЯ*/
+    margin: -25px;/*ОТСТУП*/
+    position: absolute;/*АПСОЛЮТНОЕ ПОЗИЦИОНИРОВАНИЕ*/
+    width: 4%;/*ШИРИНА*/
+    background: #ffc8c5;/*ЦВЕТ ФОНА*/
+    color: #7fffb8;/*ЦВЕТ ТЕКСТА*/
+    text-align: center;/*ВЫРАВНИВАНИЕ ПО ЦЕНТРУ*/
+    transition: top 1s ease-out 0.5s;/*Переход*/
+    transition-duration: 1s;/*Длительность анимации*/
+
+}
+#bar:hover {
+    top: 10px; /*При наведении курсорв*/
+}
