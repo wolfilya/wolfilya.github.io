@@ -4,8 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3234f3b4-5fe9-4720-985f-73b55a965082" name="Default" comment="">
+    <list default="true" id="3234f3b4-5fe9-4720-985f-73b55a965082" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/HTML/6755685768568.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/68769679.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html2/324325.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/download.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/audio.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/audio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/body.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/body.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/h1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/h1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/h2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/h2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/h3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/h3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/h4.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/h4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/h5.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/h5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/h6.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/h6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/p.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/p.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/style.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/u.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/u.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html2/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/html2/video.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,8 +147,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package_json" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -248,8 +271,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -259,14 +284,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hdsss\PycharmProjects\wolfilya.github.io\screens" />
+      <recent name="C:\Users\hdsss\PycharmProjects\wolfilya.github.io\Image" />
       <recent name="C:\Users\admin\Desktop\Proect Illya\screens" />
       <recent name="C:\Users\admin\Desktop\Proect Illya\Image" />
       <recent name="C:\Users\admin\Desktop\Proect Illya\html2" />
-      <recent name="C:\Users\Todo_iv60\Desktop\css" />
-      <recent name="C:\Users\Todo_iv60\Desktop\Image" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Second.html">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -279,6 +304,15 @@
       <option name="filePath" />
       <method />
     </configuration>
+    <configuration name="Second.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wolfilya.github.io/HTML/Second.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="TableVerstka.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wolfilya.github.io/HTML/TableVerstka.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wolfilya.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -288,6 +322,13 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Second.html" />
+        <item itemvalue="JavaScript Debug.TableVerstka.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -311,8 +352,16 @@
       <workItem from="1515607057722" duration="7708000" />
       <workItem from="1515752937886" duration="6754000" />
       <workItem from="1516439827823" duration="575000" />
-      <workItem from="1685017247757" duration="561000" />
+      <workItem from="1685017247757" duration="1591000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1685018024617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685018024617</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -342,6 +391,22 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+    <option name="SHOW_ROOT_NAMES" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Image/favicon.ico">
