@@ -45,3 +45,11 @@ th{
 #bar:hover {
     top: 10px; /*При наведении курсорв*/
 }
+
+#photo-wrapper {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
+
+
