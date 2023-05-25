@@ -1,30 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3234f3b4-5fe9-4720-985f-73b55a965082" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/a.html" afterPath="$PROJECT_DIR$/html2/a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/audio.html" afterPath="$PROJECT_DIR$/html2/audio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/body.html" afterPath="$PROJECT_DIR$/html2/body.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/footer.html" afterPath="$PROJECT_DIR$/html2/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/h1.html" afterPath="$PROJECT_DIR$/html2/h1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/h2.html" afterPath="$PROJECT_DIR$/html2/h2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/h3.html" afterPath="$PROJECT_DIR$/html2/h3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/h4.html" afterPath="$PROJECT_DIR$/html2/h4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/h5.html" afterPath="$PROJECT_DIR$/html2/h5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/h6.html" afterPath="$PROJECT_DIR$/html2/h6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/header.html" afterPath="$PROJECT_DIR$/html2/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/html.html" afterPath="$PROJECT_DIR$/html2/html.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/p.html" afterPath="$PROJECT_DIR$/html2/p.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/style.html" afterPath="$PROJECT_DIR$/html2/style.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/table.html" afterPath="$PROJECT_DIR$/html2/table.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/u.html" afterPath="$PROJECT_DIR$/html2/u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html2/video.html" afterPath="$PROJECT_DIR$/html2/video.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +16,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="h5.html" pinned="false" current-in-tab="false">
@@ -212,6 +194,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectId" id="2QHj975J3Ke9j3kUKW1LnEm1Nap" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -259,15 +242,21 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop\Proect Illya\screens" />
@@ -277,41 +266,11 @@
       <recent name="C:\Users\Todo_iv60\Desktop\Image" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
@@ -320,39 +279,17 @@
       <option name="filePath" />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
-      <method />
+      <method v="2" />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3234f3b4-5fe9-4720-985f-73b55a965082" name="Default" comment="" />
@@ -374,6 +311,7 @@
       <workItem from="1515607057722" duration="7708000" />
       <workItem from="1515752937886" duration="6754000" />
       <workItem from="1516439827823" duration="575000" />
+      <workItem from="1685017247757" duration="561000" />
     </task>
     <servers />
   </component>
@@ -403,14 +341,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <option name="version" value="3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Image/favicon.ico">
